@@ -1,0 +1,15 @@
+ea16d5716666618be60451d1f3aa9cf2 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+1bb3015b55ce0ed23d74131d1900c195 *R/getSeriesData.R
+69b68d570b281b30ee10d94e872c5c84 *R/getSeriesInfo.R
+342b5e3b90b498f7c3855d8ab459b39d *R/regexSeriesLabel.R
+80b58a271592b013629864a861530386 *R/utilityFuns.R
+3578689d994eb6d1243ec95a883a01de *R/zzz.R
+618e7ea9abd96cbc1e436f28eac8786c *build/vignette.rds
+3aa456c58a491019a52da45d8499b7fc *inst/doc/valetr.R
+e0ec30d684987b9c0fadb2190af8a362 *inst/doc/valetr.Rmd
+c77f85c8756aa7e79f0c7d4d3ffb85ec *inst/doc/valetr.html
+6d10f2a86d96b22b885545dbdce9c9c0 *man/getSeriesData.Rd
+78d2d2e566de633efc0f6721d53da431 *man/getSeriesInfo.Rd
+31e9c001b895e3697a88356dab0cadb6 *man/regexSeriesLabel.Rd
+e0ec30d684987b9c0fadb2190af8a362 *vignettes/valetr.Rmd
